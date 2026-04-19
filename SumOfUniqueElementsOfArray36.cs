@@ -58,6 +58,6 @@ namespace Problems100Solving
             }
 
             Console.WriteLine(SumOfArray(array));
-        //}
+        }
     }
 }
