@@ -1,0 +1,8 @@
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\bin\Debug\Problems100Solving.exe.config
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\bin\Debug\Problems100Solving.exe
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\bin\Debug\Problems100Solving.pdb
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\obj\Debug\Problems100Solving.csproj.AssemblyReference.cache
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\obj\Debug\Problems100Solving.csproj.CoreCompileInputs.cache
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\obj\Debug\Problems100Solving.exe
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\obj\Debug\Problems100Solving.pdb
+C:\Users\nani6\source\repos\Problems100Solving\Problems100Solving\obj\Debug\Problems100Solving.exe.config
