@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems100Solving.SumOfUniqueElementsOfArray36</StartupObject>
+    <StartupObject>Problems100Solving.ElementCountInArray39</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adder37.cs" />
     <Compile Include="AlarmClock14.cs" />
     <Compile Include="ArmstrongNumber26.cs" />
     <Compile Include="BooleanCheck15.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="Class12.cs" />
     <Compile Include="DigitDifferance2.cs" />
     <Compile Include="DigitSum1.cs" />
+    <Compile Include="ElementCountInArray39.cs" />
     <Compile Include="EmptyStartBox21.cs" />
     <Compile Include="EvenCheck5.cs" />
     <Compile Include="EvenNumbersBtwNumbers30.cs" />
@@ -62,6 +64,7 @@
     <Compile Include="GreatestNumber6.cs" />
     <Compile Include="LeastNumber07.cs" />
     <Compile Include="LisOfFactors28.cs" />
+    <Compile Include="MultipleOfArray38.cs" />
     <Compile Include="NaturalNumbers17.cs" />
     <Compile Include="NaturalNumWithOutLoops16.cs" />
     <Compile Include="NextMultiple3.cs" />
