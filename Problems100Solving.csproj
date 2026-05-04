@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems100Solving.ElementCountInArray39</StartupObject>
+    <StartupObject>Problems100Solving.RussianMultiplication40</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -82,6 +82,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RightAngleTriangle22.cs" />
     <Compile Include="RoundedSum13.cs" />
+    <Compile Include="RussianMultiplication40.cs" />
     <Compile Include="SumOdOddFromArray31.cs" />
     <Compile Include="SumOfFactors29.cs" />
     <Compile Include="SumOfUniqueElementsOfArray36.cs" />
