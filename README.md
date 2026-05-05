@@ -11,7 +11,7 @@ focusing on building strong problem-solving skills and writing clean, structured
 
 ## 📈 Progress
 
-* ✅ Completed: 36 / 100
+* ✅ Completed: 42 / 100
 * 🔄 Adding 2–3 problems daily
 
 ---
