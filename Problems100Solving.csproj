@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems100Solving.RussianMultiplication40</StartupObject>
+    <StartupObject>Problems100Solving.FizzBizz42</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="BooleanCheck15.cs" />
     <Compile Include="Class11.cs" />
     <Compile Include="Class12.cs" />
+    <Compile Include="Collatz41.cs" />
     <Compile Include="DigitDifferance2.cs" />
     <Compile Include="DigitSum1.cs" />
     <Compile Include="ElementCountInArray39.cs" />
@@ -61,6 +62,7 @@
     <Compile Include="EvenOrOddCheck10.cs" />
     <Compile Include="FactorialOfNumber27.cs" />
     <Compile Include="FindingTriangle32.cs" />
+    <Compile Include="FizzBizz42.cs" />
     <Compile Include="GreatestNumber6.cs" />
     <Compile Include="LeastNumber07.cs" />
     <Compile Include="LisOfFactors28.cs" />
